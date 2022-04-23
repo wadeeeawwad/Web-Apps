@@ -1,0 +1,14 @@
+.table td{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+
+}
+.contaner{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid black;
+}
